@@ -295,8 +295,8 @@ h3 span.private,h3 .badge-private{
 tr.group .count,.badge-count{
     padding:1px 6px;
     border:0;
-    background:#b9bf04;
-    color:#fff
+    background:#eeff00;
+    color:#000
 }
 .badge-status-open{
     border-color:#0065ff;
@@ -1279,9 +1279,9 @@ div.tabs:not(#main-menu)>ul>li>a.selected{
 }
 .pagination .page.current,.pagination .current>span{
     z-index:2;
-    border-color:#b9bf04;
-    background-color:#b9bf04;
-    color:#fff;
+    border-color:#eeff00;
+    background-color:#eeff00;
+    color:#000;
     cursor:default
 }
 .pagination .items,.pagination .per-page{
@@ -1461,8 +1461,8 @@ p.pagination+h1,p.pagination+h2,p.pagination+h3,p.pagination+h4,p.pagination+h5,
     font-size:.86em
 }
 #wrapper .context-menu-selection,#wrapper .context-menu-selection>td{
-    background-color:#b9bf04 !important;
-    color:#fff !important
+    background-color:#eeff00 !important;
+    color:#000 !important
 }
 #wrapper #context-menu>ul,#wrapper #context-menu>ul>li>ul{
     box-shadow:0 5px 8px -2px rgba(0,0,0,0.25),0 1px 2px rgba(0,0,0,0.3);
@@ -1973,8 +1973,8 @@ tr.tracker-3 .id>a::before{
     color:#81cc9a
 }
 tr.tracker-4 .id>a,tr.tracker-4 .issue_id>a,a.tracker-4.issue,a.tracker-4,.relations>span>a.tracker-4,.parent>a.tracker-4{
-    background-color:#b9bf04;
-    color:#fff
+    background-color:#eeff00;
+    color:#000
 }
 tr.tracker-4 .id>a:hover,tr.tracker-4 .issue_id>a:hover,a.tracker-4.issue:hover,a.tracker-4:hover,.relations>span>a.tracker-4:hover,.parent>a.tracker-4:hover{
     background-color:#4c3b83;
@@ -2058,7 +2058,7 @@ tr.group>td{
     text-align:left
 }
 tr.group>td a{
-    color:#b9bf04
+    color:#eeff00
 }
 tr.group .toggle-all{
     display:none;
@@ -2373,8 +2373,8 @@ table.list.enumerations+p{
     margin-top:3px;
     padding:1px 8px;
     border-radius:3px;
-    background-color:#b9bf04;
-    color:#fff;
+    background-color:#eeff00;
+    color:#000;
     font-size:.86em;
     font-weight:600;
     text-align:center;
@@ -3813,7 +3813,7 @@ table.progress td:last-child{
     border-bottom-right-radius:6px
 }
 table.progress td.done{
-    background-color:#b9bf04 !important
+    background-color:#eeff00 !important
 }
 table.progress td.closed{
     background-color:#029934 !important
@@ -4173,7 +4173,7 @@ p.footnote+p.footnote::before{
     color:#a3a6b8
 }
 .text-primary{
-    color:#b9bf04
+    color:#eeff00
 }
 .text-success{
     color:#029934
@@ -4188,8 +4188,8 @@ p.footnote+p.footnote::before{
     color:#e5123d
 }
 .bg-primary{
-    background-color:#b9bf04;
-    color:#fff
+    background-color:#eeff00;
+    color:#000
 }
 .bg-success{
     background-color:#ccebd6
@@ -4468,10 +4468,10 @@ a.close-icon:hover{
     background:#fff
 }
 #content table.filecontent th.filename{
-    border-color:#b9bf04;
+    border-color:#eeff00;
     border-bottom-color:#e6e5e5;
-    background-color:#b9bf04;
-    color:#fff
+    background-color:#eeff00;
+    color:#000
 }
 #content table.filecontent tbody{
     font-size:.92em
@@ -4997,17 +4997,17 @@ tr.changeset ul{
 }
 .ui-widget-header{
     border:0 none;
-    background:#b9bf04;
-    color:#fff;
+    background:#eeff00;
+    color:#000;
     font-weight:600
 }
 .ui-widget-header a{
     color:#fff
 }
 .ui-widget-header a.ui-state-default,.ui-widget-header button.ui-state-default{
-    border-color:#b9bf04;
-    background:#b9bf04;
-    color:#fff
+    border-color:#eeff00;
+    background:#eeff00;
+    color:#000
 }
 .ui-widget-header a.ui-state-hover,.ui-widget-header a.ui-state-focus,.ui-widget-header button.ui-state-hover,.ui-widget-header button.ui-state-focus{
     border-color:#48387c;
@@ -5028,9 +5028,9 @@ tr.changeset ul{
     text-decoration:none
 }
 .ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus{
-    border:1px solid #b9bf04;
-    background:#b9bf04;
-    color:#fff;
+    border:1px solid #eeff00;
+    background:#eeff00;
+    color:#000;
     font-weight:normal
 }
 .ui-state-hover a,.ui-state-hover a:hover,.ui-state-hover a:link,.ui-state-hover a:visited,.ui-state-focus a,.ui-state-focus a:hover,.ui-state-focus a:link,.ui-state-focus a:visited{
@@ -5038,9 +5038,9 @@ tr.changeset ul{
     text-decoration:none
 }
 .ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active{
-    border:1px solid #b9bf04;
-    background:#b9bf04;
-    color:#fff;
+    border:1px solid #eeff00;
+    background:#eeff00;
+    color:#000;
     font-weight:normal
 }
 .ui-state-active .ui-icon,.ui-widget-content .ui-state-active .ui-icon,.ui-widget-header .ui-state-active .ui-icon{
@@ -5161,9 +5161,9 @@ img.ui-datepicker-trigger{
     background:#fff
 }
 .ui-datepicker .ui-datepicker-calendar .ui-state-focus,.ui-datepicker .ui-datepicker-calendar .ui-state-hover{
-    border-color:#b9bf04;
-    background:#b9bf04;
-    color:#fff
+    border-color:#eeff00;
+    background:#eeff00;
+    color:#000
 }
 .ui-datepicker .ui-datepicker-calendar .ui-state-active{
     border-color:#d19d01;
@@ -5171,7 +5171,7 @@ img.ui-datepicker-trigger{
     color:#5b4500
 }
 .ui-datepicker .ui-datepicker-calendar .ui-datepicker-today .ui-state-highlight{
-    border-color:#b9bf04
+    border-color:#eeff00
 }
 .ui-datepicker .ui-datepicker-calendar .ui-datepicker-current-day .ui-state-active{
     border-color:#d19d01
@@ -6189,9 +6189,9 @@ table.list th.checkbox>a img{
     text-align:center
 }
 .contextual .drdn.expanded>.drdn-trigger{
-    border-color:#b9bf04;
-    background-color:#b9bf04;
-    color:#fff
+    border-color:#eeff00;
+    background-color:#eeff00;
+    color:#000
 }
 .contextual .drdn-trigger{
     padding:3px 8px;
@@ -6270,8 +6270,8 @@ table.list th.checkbox>a img{
 }
 #header{
     position:relative;
-    background-color:#b9bf04;
-    color:#fff
+    background-color:#eeff00;
+    color:#000
 }
 #header>h1{
     padding:10px 20px
@@ -6365,8 +6365,8 @@ table.list th.checkbox>a img{
     color:#212136
 }
 #project-jump a:hover,#project-jump a:focus{
-    background-color:#b9bf04;
-    color:#fff;
+    background-color:#eeff00;
+    color:#000;
     text-decoration:none
 }
 #project-jump .all-projects a{
@@ -6430,7 +6430,7 @@ table.list th.checkbox>a img{
 }
 #main-menu>ul>li>a.selected{
     padding-bottom:7px;
-    border-bottom:3px solid #b9bf04;
+    border-bottom:3px solid #eeff00;
     background-color:rgba(0,0,0,0);
     box-shadow:none;
     color:#000;
@@ -6488,8 +6488,8 @@ table.list th.checkbox>a img{
     color:#212136
 }
 #main-menu .menu-children a:hover,#main-menu .menu-children a:focus{
-    background-color:#b9bf04;
-    color:#fff;
+    background-color:#eeff00;
+    color:#000;
     text-decoration:none
 }
 #main-menu .menu-children>li:first-child>a{
@@ -6756,7 +6756,7 @@ body.controller-issues h2 .inline-flex{
 @media screen and (max-width: 899px){
     body .flyout-menu+div #header{
         height:54px;
-        background-color:#b9bf04
+        background-color:#eeff00
     }
     body .flyout-menu+div #header .jump-box-arrow::before{
         line-height:54px
@@ -7390,7 +7390,7 @@ html.agile-board-fullscreen .icon.icon-fullscreen::before{
     background-color:#fed8e0
 }
 .agile-board .issue-card.bk-purple{
-    border-color:#b9bf04;
+    border-color:#eeff00;
     background-color:#e2dafc
 }
 .agile-board .issue-card.bk-gray{
@@ -7600,8 +7600,8 @@ body span.tag-label-color a:hover{
     font-size:14px
 }
 #top-menu .dropdown .dropdown-menu>li a:hover,#top-menu .dropdown .dropdown-menu>li a:focus,#top-menu .dropdown .dropdown-submenu:hover a,#top-menu .dropdown .dropdown-submenu:focus a{
-    background-color:#b9bf04;
-    color:#fff
+    background-color:#eeff00;
+    color:#000
 }
 #top-menu .rm-icon::before{
     font-size:14px
